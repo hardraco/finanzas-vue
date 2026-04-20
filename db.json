@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "nico@test.com",
+      "password": "$2a$10$ZeccffIarvP39azbbSJow.Vih8OS/aKwfHd4APr8FNQgYpUKpF0PG",
+      "id": 1
+    },
+    {
+      "email": "hola@gmail.com",
+      "password": "$2a$10$dLCM.USTh.RUxad2XDOXD.yVfrbabA1nX3/vqhjcn8bt/t9dQ8xWa",
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Alimentación"
+    },
+    {
+      "nombre": "Transportes",
+      "id": 2
+    }
+  ],
+  "transacciones": [
+    {
+      "descripcion": "Gasto insulso",
+      "monto": 240,
+      "tipo": "gasto",
+      "categoriaId": 1,
+      "id": 1
+    }
+  ]
+}
