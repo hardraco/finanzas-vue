@@ -1,6 +1,6 @@
-# 💰 Finanzas Personales - Vue 3
+# Finanzas Personales - Vue 3
 
-## 📌 Descripción
+## Descripción
 
 Aplicación web desarrollada con **Vue 3** que permite gestionar finanzas personales mediante el registro de **transacciones** (ingresos y gastos) organizadas por **categorías**.
 
