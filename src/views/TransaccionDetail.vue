@@ -24,7 +24,7 @@ const transaccion = ref(null)
 const categorias = ref([])
 const nombreCategoria = ref('')
 
-// 🔹 Cargar datos
+// Cargar datos
 const cargarDetalle = async () => {
   const id = route.params.id
 

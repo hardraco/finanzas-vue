@@ -80,7 +80,7 @@ src/
 ### 1️ Clonar repositorio
 
 ```
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/hardraco/finanzas-vue.git
 cd finanzas-vue
 ```
 
@@ -108,7 +108,7 @@ http://localhost:3000
 
 ---
 
-### 4️⃣ Ejecutar frontend
+### 4️ Ejecutar frontend
 
 ```
 npm run dev
